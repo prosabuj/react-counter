@@ -2,6 +2,10 @@
   "name": "mosh-tut",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "yarn": "1.12.3",
+    "node": "10.13.0"
+  },
   "dependencies": {
     "react": "^16.7.0-alpha.2",
     "react-dom": "^16.7.0-alpha.2",
